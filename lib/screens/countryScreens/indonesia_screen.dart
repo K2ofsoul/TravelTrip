@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:travel_trip_application/reusable_widgets/side_menu.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 import '../../reusable_widgets/dark_mode.dart';
 import '../utils/utils.dart';
 import 'package:provider/provider.dart';
